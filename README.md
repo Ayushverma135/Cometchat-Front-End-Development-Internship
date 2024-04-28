@@ -1,4 +1,4 @@
-# Comechat-Front-End-Developement-Intership
+# Cometchat-Front-End-Development-Internship
 
 Thank you for your interest in our internship opening. As a next step, we are expecting you to complete a short assignment.
 
